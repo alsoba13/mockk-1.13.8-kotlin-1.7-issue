@@ -1,0 +1,1 @@
+/Users/alberto.soto/repos/mockk-1.13.8-kotlin-1.7-issue/build/classes/kotlin/main/MainKt.class
